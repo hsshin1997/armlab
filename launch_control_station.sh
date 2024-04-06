@@ -1,0 +1,1 @@
+python control_station.py -c "config/rx200_pox.csv"
